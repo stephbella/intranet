@@ -1,4 +1,4 @@
 intranet
 ========
 
-intranet local
+A revendre à mes clients
